@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Copenhagen Business School
+  url: https://www.cbs.dk/en/research/departments-and-centres/department-of-economics
+role: PhD student in Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,9 +32,6 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -42,7 +39,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Myriam Marending
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

@@ -7,8 +7,8 @@
 
 theme: minimal
 day_night: true
-font: ''
-font_size: L
+font: 'Classic'
+font_size: m
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: myma.eco@cbs.dk
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
