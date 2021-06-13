@@ -22,7 +22,7 @@ interests:
  - Development Economics
   
 social:
-- icon: envelope
+- name: Hello
   icon_pack: fas
   link: myma.eco@cbs.dk
 - display:

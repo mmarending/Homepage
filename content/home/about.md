@@ -12,11 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-<<<<<<< HEAD
-title: ''
-=======
-title: # Welcome!
->>>>>>> 5832fcaa9c5ad711989866208d4e3f16f163b351
+title: 
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
