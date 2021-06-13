@@ -1,6 +1,10 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: Myriam Marending
+role: PhD student in Economics
+organizations:
+- name: Copenhagen Business School
+  url: https://www.cbs.dk/en/research/departments-and-centres/department-of-economics
+
 education:
   courses:
   - course: PhD in Economics
@@ -12,36 +16,28 @@ education:
   - course: BSc in International Relations
     institution: University of Geneva
     year: 2013
-email: ""
+email: "myma.eco@cbs.dk"
 highlight_name: false
 interests:
 - Development Economics
-
-organizations:
-- name: Copenhagen Business School
-  url: https://www.cbs.dk/en/research/departments-and-centres/department-of-economics
-role: PhD student in Economics
+  
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: myma.eco@cbs.dk
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MyriamMarending
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/mmarending
 superuser: true
-title: Myriam Marending
+
 ---
 
-## Welcome!
 
 I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) at [Copenhagen Business School](https://www.cbs.dk/en).
 
