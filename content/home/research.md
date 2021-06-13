@@ -57,16 +57,8 @@ In this paper I exploit spatial discontinuities to examine the effect of peace a
 Under normal circumstances households in developing countries do not necessarily favor male children over female children. However, in light of adverse shocks and resulting economic hardship, more vulnerable households are faced with life and death decisions which might favor boys over girls. We test the existence of gender-based discrimination in food allocation exploiting a pure agricultural shock affecting rural and urban households in Ethiopia. Using a DiD approach, we compare changes in nutritional outcomes for children living in proximity to the observed and predicted location of the shock (treated children) to changes in the same outcomes for children we predict not to be affected by the shock (control children). Initial results suggest that treated girls are not disproportionately affected by the negative shock, compared to treated boys.
 
 
-% [[DN working paper, June 2021]]() 
-
-
 ### Financial deepening and the informal economy: Evidence from local credit cycles in India
 *(joint with [Gabriel Züllig](https://gabrielzuellig.ch/))*
 
 The informal sector in India is estimated to constitute over 50% of overall Gross Value Added, with an estimated employment share larger than 90% of the Indian working age population.  We analyse the role of formal credit on the size and dynamics of the shadow economy in India between 1992 and 2018. The identification strategy exploits variation in easing credit constraints on the supply and demand side due to global gold price shocks. The overall economic activity is inferred from averages of nightlight at the cross-sectional level of Indian districts. 
 
-
-
-&nbsp;
-
-## Technical work

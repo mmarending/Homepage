@@ -38,9 +38,12 @@ superuser: true
 
 ---
 
-### Welcome!
 
-I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) at [Copenhagen Business School](https://www.cbs.dk/en).
+## Welcome!
+
+I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) at Copenhagen Business School.
+
+
 
 My research focuses on 
 
