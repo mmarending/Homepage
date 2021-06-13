@@ -1,20 +1,13 @@
 ---
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Portfolio widget type
 widget: portfolio
-
-# Activate this widget? true/false
 active: true
-
-
-# Order that this section appears on the page.
-weight: 
-
+weight: 20
 title: Research
 subtitle: ''
 
 content:
-  # Page type to display. E.g. project.
+  # Page type to display
   page_type: research
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
@@ -44,7 +37,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
