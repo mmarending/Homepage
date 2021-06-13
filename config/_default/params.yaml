@@ -5,9 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: my_theme
 day_night: true
 font-family: "Classic"
+font: ""
 font_size: m
 
 # SEO
