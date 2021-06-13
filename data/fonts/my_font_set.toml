@@ -7,5 +7,5 @@ google_fonts = "family=Crimson%20Pro:wght@300&family=Roboto+Mono&family=Roboto:w
 # Font families
 heading_font = "Crimson Pro"
 body_font = "Crimson Pro"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+nav_font = "Crimson Pro"
+mono_font = "Crimson Pro"
