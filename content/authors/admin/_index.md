@@ -22,9 +22,9 @@ interests:
  - Development Economics
   
 social:
-- name: Hello
+- icon: envelope 
   icon_pack: fas
-  link: myma.eco@cbs.dk
+  link: "mailto::myma.eco@cbs.dk"
 - display:
     header: true
   icon: twitter
@@ -38,10 +38,9 @@ superuser: true
 
 ---
 
-Welcome!
+### Welcome!
 
 I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) at [Copenhagen Business School](https://www.cbs.dk/en).
 
 My research focuses on 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -9,13 +9,11 @@
       weight: 2
     - name: CV
       url: '/docs/demo_resume.pdf'
-      weight: 2.5
-    # - name: Publications
-    #   url: '#featured'
-    #   weight: 50
+      weight: 3
+    # - name: Contact
+    #   url: '#maps'
+    #   weight: 4 
     # - name: Courses
     #   url: courses/
-    #   weight: 60
-    # - name: Contact
-    #   url: '#contact'
-    #   weight: 70
+    #   weight: 5
+   
