@@ -2,10 +2,11 @@
 name = "Myfonts"
 
 # Optional Google font URL
-google_fonts = "family=Crimson%20Pro:wght@300&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Crimson+Pro:wght@300&family=PT+Serif"
 
 # Font families
 heading_font = "Crimson Pro"
 body_font = "Crimson Pro"
 nav_font = "Crimson Pro"
 mono_font = "Crimson Pro"
+
