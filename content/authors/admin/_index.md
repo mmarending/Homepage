@@ -1,6 +1,6 @@
 ---
 title: Myriam Marending
-role: PhD student in Economics
+role: PhD student
 organizations:
 - name: Copenhagen Business School
   url: https://www.cbs.dk/en/research/departments-and-centres/department-of-economics
@@ -19,7 +19,7 @@ education:
 email: "myma.eco@cbs.dk"
 highlight_name: false
 interests:
-- Development Economics
+ - Development Economics
   
 social:
 - icon: envelope
@@ -38,6 +38,7 @@ superuser: true
 
 ---
 
+Welcome!
 
 I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) at [Copenhagen Business School](https://www.cbs.dk/en).
 
