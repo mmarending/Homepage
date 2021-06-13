@@ -5,8 +5,8 @@ name = "Myfonts"
 google_fonts = "family=Crimson+Pro:wght@300&family=PT+Serif"
 
 # Font families
-heading_font = "Crimson Pro"
-body_font = "Crimson Pro"
-nav_font = "Crimson Pro"
-mono_font = "Crimson Pro"
+heading_font = "PT Serif"
+body_font = "PT Serif"
+nav_font = "PT Serif"
+mono_font = "PT Serif"
 
