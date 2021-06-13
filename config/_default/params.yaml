@@ -7,8 +7,7 @@
 
 theme: my_theme
 day_night: true
-font-family: "Classic"
-font: ""
+font-family: my_font_set
 font_size: m
 
 # SEO

@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Myfonts"
+
+# Optional Google font URL
+google_fonts = "family=Crimson%20Pro:wght@300&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Crimson Pro"
+body_font = "Crimson Pro"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
