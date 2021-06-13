@@ -8,7 +8,7 @@ title: Myriam Marending # Website name
 summary: PhD Copenhagen Development Economics Research
 date: 2021-06-01
 baseurl: '' # Website URL
-copyright: 'hello' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 featured: true
 
 ############################

@@ -1,7 +1,7 @@
 # Font style metadata
 name = "Mytheme"
 
-# Optional Google font URL
+# Optional Google font URL - https://fonts.google.com/
 google_fonts = "family=Crimson+Pro:wght@300&family=PT+Serif"
 
 # Font families

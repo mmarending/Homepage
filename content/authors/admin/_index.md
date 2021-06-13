@@ -1,6 +1,6 @@
 ---
 title: Myriam Marending
-role: PhD student in Economics
+role: PhD student
 organizations:
 - name: Copenhagen Business School
   url: https://www.cbs.dk/en/research/departments-and-centres/department-of-economics
