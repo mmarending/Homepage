@@ -13,18 +13,21 @@ education:
   - course: MA in Economics
     institution: University of St. Gallen
     year: 2015
-  - course: BSc in International Relations
+  - course: BA in International Relations
     institution: University of Geneva
     year: 2013
 email: "myma.eco@cbs.dk"
 highlight_name: false
 interests:
- - Development Economics
+ - Development economics
+ - Spatial analysis
+ - Conflict
+ - Agriculture
   
 social:
 - icon: envelope 
   icon_pack: fas
-  link: "mailto::myma.eco@cbs.dk"
+  link: "mailto:myma.eco@cbs.dk"
 - display:
     header: true
   icon: twitter
@@ -40,8 +43,5 @@ superuser: true
 
 ## Welcome!
 
-I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) at Copenhagen Business School.
-
-
-My research focuses on 
+I am a PhD student in Economics at the [Department of Economics](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics), Copenhagen Business School. My research seeks to study and understand the dynamics of micro-level sources of resource misallocations and bargaining failure in the process of economic development. 
 
