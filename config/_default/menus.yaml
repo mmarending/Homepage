@@ -8,8 +8,11 @@
       url: '#research'
       weight: 2
     - name: CV
-      url: '/docs/demo_resume.pdf'
+      url: '/docs/MyriamMarendingCV.pdf'
       weight: 3
+    # - name: Research 2
+    #  url: '#publication'
+    #  weight: 4
     # - name: Contact
     #   url: '#maps'
     #   weight: 4 
