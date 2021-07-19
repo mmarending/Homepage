@@ -22,7 +22,6 @@ interests:
  - Development economics
  - Spatial analysis
  - Conflict
- - Agriculture
   
 social:
 - icon: envelope 
