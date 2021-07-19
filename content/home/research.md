@@ -63,7 +63,7 @@ with [Gabriel Züllig](https://gabrielzuellig.ch/)
 <!-- The informal sector in India is estimated to constitute over 50% of overall Gross Value Added, with an estimated employment share larger than 90% of the Indian working age population.  We analyse the role of formal credit on the size and dynamics of the shadow economy in India between 1992 and 2018. The identification strategy exploits variation in easing credit constraints on the supply and demand side due to global gold price shocks. The overall economic activity is inferred from averages of nightlight at the cross-sectional level of Indian districts. -->
 
 
-### On the Effect of Ceasefires
+### Measuring the effect of ceasefire agreements
 with [Alex Armand](http://www.alexarmand.org/) and Galina Vysotskaya
 
 
