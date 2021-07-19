@@ -52,7 +52,7 @@ design:
 
 
 ### Agricultural pests and intra-household resource allocation: evidence from Ethiopia
-with [Stefano Tripodi](https://stefanotripodi.netlify.app/)
+with Stefano Tripodi <!--[Stefano Tripodi](https://stefanotripodi.netlify.app/)-->
 
 <!--  Under normal circumstances households in developing countries do not necessarily favor male children over female children. However, in light of adverse shocks and resulting economic hardship, more vulnerable households are faced with life and death decisions which might favor boys over girls. We test the existence of gender-based discrimination in food allocation exploiting a pure agricultural shock affecting rural and urban households in Ethiopia. Using a DiD approach, we compare changes in nutritional outcomes for children living in proximity to the observed and predicted location of the shock (treated children) to changes in the same outcomes for children we predict not to be affected by the shock (control children). Initial results suggest that treated girls are not disproportionately affected by the negative shock, compared to treated boys.-->
 
