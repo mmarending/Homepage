@@ -46,7 +46,7 @@ design:
 
 ## Work in progress
 
-### War and Peace: Civil conflict dynamics in the presence of peace agreements
+### War and Peace: evidence from borders of civil war peace accords in Africa
 
  In this paper I exploit spatial discontinuities to examine the effect of peace agreements on civil conflict dynamics by signatory and non-signatory armed groups in Africa between 1998 and 2019. Based on the conflict events I construct dynamic territories under influence of armed groups over time, which I instrument using a theory-based spatial partition of Africa. These plausibly exogenous discontinuities are matched to the signatories of 414 peace agreements. Looking at yearly-grid-cells in the vicinity of the discontinuity, I find a negative average treatment effect of peace agreements on the incidence of violence of 24 percent in the year of the signing. The findings help inform our understanding of the interaction between peace agreements as potential relative power shifters between signatory and non-signatory armed groups, with implications for provisions and inclusiveness of peace deals. 
 
